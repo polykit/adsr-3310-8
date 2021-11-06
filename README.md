@@ -4,6 +4,16 @@ Here you can find Kicad schematics and PCB layout for an 8 channel ADSR based on
 
 ![ADSR-3310-8 PCB](adsr-3310-8-pcb.jpg)
 
+## BOM
+
+## Calibration
+
+### ADR
+
+Leave 3310 ICs out and turn attack, decay and release control to maximum. Adjust trimpots until you measure -240mV on all three test points to ground.
+
+### Timing
+
 ## References
 
 https://www.synthxl.com/wp-content/uploads/2018/04/Crumar-Trilogy-Schematic.pdf#page=13
